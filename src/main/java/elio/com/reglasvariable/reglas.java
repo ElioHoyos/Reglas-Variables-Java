@@ -15,5 +15,8 @@ public class reglas {
         //tipo camello
         var saludarPalabra = "Hola desde Java";
         System.out.println(saludarPalabra);
+        //tipo guin de piso
+        var palabra = "Hola";
+        System.out.println("Esto es un :" + palabra);
     }
 }
